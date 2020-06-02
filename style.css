@@ -1,0 +1,17 @@
+body {
+    padding: 0px;
+}
+h1 {
+    text-align: center;
+    text-shadow: 2px 3px 5px #00f;
+    background-color: rgb(8, 234, 250);
+    padding: 0;
+}
+img {
+    width: 350px;
+    height: 250px;
+}
+table td, th {
+    width: 500px;
+    height: 70px;
+}
